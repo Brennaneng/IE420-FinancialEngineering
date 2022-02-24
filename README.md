@@ -1,7 +1,7 @@
 # IE420-FinancialEngineering
 
 
-**this repository consists of Python, Excel, and other miscellaneous files that are used to complete [UIUC IE 420 Course Description]https://ise.illinois.edu/academics/courses/IE420-120211 homeworks. **
+**this repository consists of Python, Excel, and other miscellaneous files that are used to complete [UIUC IE 420 Course Description]https://ise.illinois.edu/academics/courses/IE420-120211 homeworks.**
 
 ## Overview of course
 
